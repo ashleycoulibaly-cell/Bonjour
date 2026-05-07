@@ -1,0 +1,6 @@
+{
+  "name": "Bonjour App",
+  "description": "A very simple app that displays 'Bonjour Ashley'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
